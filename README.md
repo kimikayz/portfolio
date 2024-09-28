@@ -35,7 +35,7 @@ My team and I analyzed the economic progress of the United States from 1913 to 2
 [Source Picture](https://www.simbhq.org/sbfc/covid-19-information/)
 
 ### Air Pollution Analysis and Modeling Prediction
-[Explore](link)
+[Explore](https://github.com/kimikayz/projects/tree/main/Artificial%20Intelligence%20Project)
 
 My team and I undertook a comprehensive project aimed at tackling air pollution challenges in DKI Jakarta. Leveraging advanced machine learning techniques, we developed a predictive model using data collected from five air quality monitoring stations throughout the province in 2021. Our objective was to forecast future pollution levels, equipping stakeholders with crucial insights to effectively manage environmental issues and protect public health. All analyses were conducted using Python.
 
@@ -43,7 +43,7 @@ My team and I undertook a comprehensive project aimed at tackling air pollution 
 [Source Picture](https://www.freepik.com/icon/air-pollution_3432056)
 
 ### Advancing House Price Prediction Through Machine Learning
-[Explore](link)
+[Explore](https://github.com/kimikayz/projects/tree/main/Machine%20Learning%20Project)
 
 My team and I developed a machine learning model to predict housing prices using data on key factors like 'area,' 'bathrooms,' and 'parking.' We applied models such as KNN, Linear Regression, and K-Means to the dataset, with Linear Regression emerging as the most accurate, explaining 60.7% of price variation. This project, implemented in Python, offers a reliable tool for stakeholders to make informed decisions in the real estate market.
 
