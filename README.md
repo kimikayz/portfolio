@@ -1,5 +1,5 @@
 # Data Scientist
-#### Progamming Languages/Tools:  Python, R, SQL, Tableau, Spark, Docker, Microsoft Excel. 
+#### Progamming Languages/Tools:  Python, R, SQL, Tableau, Google Sheets. 
 #### Libraries: TensorFlow, Keras, Scikit-Learn, Seaborn, Matplotlib, Pandas, Numpy. 
 #### Techniques: Data Preprocessing, Feature Engineering, Exploratory Data Analysis (EDA), Machine Learning Algorithms, Model Evaluation and Tuning, Statistical Analysis.
 #### Soft Skills: Problem Solving, Communication, Critical Thinking, Attention to Detail, Adaptability, Time Management, Curiosity, Collaboration, Resilience, Ethical Awareness.
