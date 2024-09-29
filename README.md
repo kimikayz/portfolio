@@ -27,7 +27,7 @@
 
 ## Projects
 ### COVID-19 Impact to US Economy
-[Explore](link)
+[Explore](https://github.com/kimikayz/projects/tree/1b13fa484f04de79285169472e583d47d463abb8/Data%20Mining%20%26%20Visualization%20Project)
 
 My team and I analyzed the economic progress of the United States from 1913 to 2023, focusing on the significant impacts of COVID-19. We defined the problem statement, conducted exploratory data analysis (EDA), and developed a predictive model using linear regression. Our findings highlight the economic trends over the past century, with a specific emphasis on the shifts observed after the pandemic. Through our analysis, we aim to forecast the potential trajectory of the US economy in the near future, providing valuable insights into recovery and growth. All analyses were performed using R.
 
