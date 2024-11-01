@@ -1,5 +1,19 @@
 title: Kimberly Kayla
 logo: ./Kimmy%20-%20Profile%20Pic.jpg
-description: I’m a data science enthusiast passionate about turning complex data into actionable insights. From machine learning to data visualization, I love creating innovative solutions. Explore my projects to see how I combine curiosity, creativity, and technical skills to deliver impactful data-driven results. Let’s collaborate on meaningful ventures!
-show_downloads: true
+description: 
+Experienced data professional with a strong foundation in data science, analytics, and engineering. Skilled in transforming complex datasets into valuable business insights through data analysis, machine learning, and data visualization techniques. Demonstrated expertise in predictive modeling and statistical analysis, with a commitment to delivering data-driven strategies that enhance decision-making and optimize processes.
+Proficient in Python, R, SQL, Tableau, Google Sheets, and Microsoft Excel, with hands-on experience in end-to-end data workflows, from data collection and preprocessing to model deployment and reporting. Passionate about solving complex challenges by merging curiosity with a rigorous analytical approach. Excited to leverage my expertise to drive impactful outcomes as a Data Scientist, Data Analyst, Business Intelligence Analyst, or Data Engineer in a dynamic and collaborative environment.
 theme: jekyll-theme-minimal
+social:
+  - name: Email
+    url: mailto:kimikayla862@gmail.com
+  - name: Phone
+    number: "+62 818 8197 79"
+  - name: Location
+    city: Jakarta, Indonesia
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/kimberly-kayla-64737526a/
+  - name: GitHub
+    url: https://github.com/kimikayz/
+  - name: CV
+    url: ./CV.pdf
