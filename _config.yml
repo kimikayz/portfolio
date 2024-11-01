@@ -1,11 +1,8 @@
 title: Kimberly Kayla
 logo: ./Kimmy%20-%20Profile%20Pic.jpg
-description: |
-Experienced data professional with a strong foundation in data science, analytics, and engineering. Skilled in transforming complex datasets into valuable business insights through data analysis, machine learning, and data visualization techniques. Demonstrated expertise in predictive modeling and statistical analysis, with a commitment to delivering data-driven strategies that enhance decision-making and optimize processes.
-
-Proficient in Python, R, SQL, Tableau, Google Sheets, and Microsoft Excel, with hands-on experience in end-to-end data workflows, from data collection and preprocessing to model deployment and reporting. Passionate about solving complex challenges by merging curiosity with a rigorous analytical approach. Excited to leverage my expertise to drive impactful outcomes as a Data Scientist, Data Analyst, Business Intelligence Analyst, or Data Engineer in a dynamic and collaborative environment.
+description: Experienced data professional with a strong foundation in data science, analytics, and engineering. Skilled in transforming complex datasets into valuable business insights through data analysis, machine learning, and data visualization techniques. Demonstrated expertise in predictive modeling and statistical analysis, with a commitment to delivering data-driven strategies that enhance decision-making and optimize processes.
+description: Proficient in Python, R, SQL, Tableau, Google Sheets, and Microsoft Excel, with hands-on experience in end-to-end data workflows, from data collection and preprocessing to model deployment and reporting. Passionate about solving complex challenges by merging curiosity with a rigorous analytical approach. Excited to leverage my expertise to drive impactful outcomes as a Data Scientist, Data Analyst, Business Intelligence Analyst, or Data Engineer in a dynamic and collaborative environment.
 theme: jekyll-theme-minimal
-
 social:
   - name: Email
     url: mailto:kimikayla862@gmail.com
