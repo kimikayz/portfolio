@@ -8,11 +8,9 @@
 - **GitHub**: [github.com/kimikayz](https://github.com/kimikayz/)
 - **CV**: [Download CV](./CV.pdf)
 
-#### Progamming Languages/Tools:  Python, R, SQL, Tableau, Google Sheets, Microsoft Excel.
-#### Libraries: TensorFlow, Keras, Scikit-Learn, Seaborn, Matplotlib, Pandas, Numpy. 
-#### Techniques: Data Preprocessing, Feature Engineering, Exploratory Data Analysis (EDA), Machine Learning Algorithms, Model Evaluation and Tuning, Statistical Analysis.
-#### Soft Skills: Problem Solving, Communication, Critical Thinking, Attention to Detail, Adaptability, Time Management, Curiosity, Collaboration, Resilience, Ethical Awareness.
-#### Languages: Indonesian and English.
+Experienced data professional with a strong foundation in data science, analytics, and engineering. Skilled in transforming complex datasets into valuable business insights through data analysis, machine learning, and data visualization techniques. Demonstrated expertise in predictive modeling and statistical analysis, with a commitment to delivering data-driven strategies that enhance decision-making and optimize processes.
+
+Proficient in Python, R, SQL, Tableau, Google Sheets, and Microsoft Excel, with hands-on experience in end-to-end data workflows, from data collection and preprocessing to model deployment and reporting. Passionate about solving complex challenges by merging curiosity with a rigorous analytical approach. Excited to leverage my expertise to drive impactful outcomes as a Data Scientist, Data Analyst, Business Intelligence Analyst, or Data Engineer in a dynamic and collaborative environment.
 
 ## Projects
 ### Air Pollution Analysis and Modeling Prediction
@@ -46,3 +44,10 @@ My team and I analyzed the economic progress of the United States from 1913 to 2
 - Head of Human Capital Department at Data Science Club BINUS University (_Feb 2024 - Present_)
 - Freshmen Partner at BINUS University (_June 2023 - June 2024_)
 - MC and Volunteer of ASEAN DSE National Finals Indonesia, ASEAN Foundation (_July 2023 - August 2023_)
+
+## Additional Information
+- Progamming Languages/Tools:  Python, R, SQL, Tableau, Google Sheets, Microsoft Excel.
+- Libraries: TensorFlow, Keras, Scikit-Learn, Seaborn, Matplotlib, Pandas, Numpy. 
+- Techniques: Data Preprocessing, Feature Engineering, Exploratory Data Analysis (EDA), Machine Learning Algorithms, Model Evaluation and Tuning, Statistical Analysis.
+- Soft Skills: Problem Solving, Communication, Critical Thinking, Attention to Detail, Adaptability, Time Management, Curiosity, Collaboration, Resilience, Ethical Awareness.
+- Languages: Indonesian and English.
