@@ -1,4 +1,13 @@
 # Data Scientist | Data Analyst | Business Intelligence Analyst | Data Engineer
+
+### Contact Information:
+- **Email**: [kimikayla862@gmail.com](mailto:kimikayla862@gmail.com)
+- **Phone**: +62 818 8197 79
+- **Location**: Jakarta, Indonesia
+- **LinkedIn**: [linkedin.com/in/kimberly-kayla-64737526a/](https://www.linkedin.com/in/kimberly-kayla-64737526a/)
+- **GitHub**: [github.com/kimikayz](https://github.com/kimikayz/)
+- **CV**: [Download CV](./CV.pdf)
+
 #### Progamming Languages/Tools:  Python, R, SQL, Tableau, Google Sheets, Microsoft Excel.
 #### Libraries: TensorFlow, Keras, Scikit-Learn, Seaborn, Matplotlib, Pandas, Numpy. 
 #### Techniques: Data Preprocessing, Feature Engineering, Exploratory Data Analysis (EDA), Machine Learning Algorithms, Model Evaluation and Tuning, Statistical Analysis.
@@ -34,6 +43,6 @@ My team and I analyzed the economic progress of the United States from 1913 to 2
 - Data Science | BINUS University (_2022 - Present_)
   
 ## Organization and Volunteer Experience
-**Head of Human Capital Department at Data Science Club BINUS University (_Feb 2024 - Present_)**
-**Freshmen Partner at BINUS University (_June 2023 - June 2024_)**
-**MC and Volunteer of ASEAN DSE National Finals Indonesia, ASEAN Foundation (_July 2023 - August 2023_)**
+- Head of Human Capital Department at Data Science Club BINUS University (_Feb 2024 - Present_)
+- Freshmen Partner at BINUS University (_June 2023 - June 2024_)
+- MC and Volunteer of ASEAN DSE National Finals Indonesia, ASEAN Foundation (_July 2023 - August 2023_)
